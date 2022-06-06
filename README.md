@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruca-Bootstrap" height="30" width="40" src="bootstrap.png">
-  <img align="center" alt="Ruca-NodeJS" height="30" width="40" src="nodejs.png">
+  <img align="center" alt="Ruca-VueJs" height="30" width="40" src="vuejs.png">
   <img align="center" alt="Ruca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ruca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ruca-wordpress" height="30" width="40" src="wordpress.png">

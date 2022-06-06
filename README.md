@@ -15,6 +15,8 @@
   <img align="right" alt="Ruca-pic" height="150" style="border-radius:50px;" src="profile-pic.png">
 </div>
   
+ ##
+ 
  
 <div> 
   <a href="https://instagram.com/ruca.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
